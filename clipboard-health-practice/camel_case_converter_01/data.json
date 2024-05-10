@@ -1,0 +1,13 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "ContactInfo": {
+    "email_address": "john@example.com",
+    "phone-number": "123-456-7890",
+    "address": {
+      "street": "John Street",
+      "city_and_state": "New York, NY",
+      "zip-code": "12345"
+    }
+  }
+}
