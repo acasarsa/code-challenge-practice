@@ -1,0 +1,8 @@
+{
+  "FirstName": "John",
+  "last_name": "Doe",
+  "contact-info": {
+    "email-address": "john@example.com",
+    "phone_number": "123-456-7890"
+  }
+}

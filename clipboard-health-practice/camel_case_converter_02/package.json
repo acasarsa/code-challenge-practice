@@ -1,0 +1,13 @@
+{
+  "name": "camel_case_converter_02",
+  "version": "1.0.0",
+  "description": "normalize case to camelCase",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node converter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
